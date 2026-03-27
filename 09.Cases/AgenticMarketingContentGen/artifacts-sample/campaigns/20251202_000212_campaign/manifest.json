@@ -1,0 +1,308 @@
+{
+  "campaign_id": "marketing-my-esp32-ai-embodied-intelligence-educational-inno",
+  "topic": "marketing my ESP32 AI embodied intelligence educational innovative product",
+  "created_at": "2025-12-02 00:16:49.700079",
+  "strategy": {
+    "topic": "marketing my ESP32 AI embodied intelligence educational innovative product",
+    "user_intent": "",
+    "output_language": "en",
+    "target_audience": "Primary ICP: K-8 and middle/high STEM teachers and curriculum leads at public and private schools (North America and Europe priority, APAC growth markets) who run project-based learning and need low-cost, standards-aligned kits for classrooms of 20–30 students. Secondary ICPs: district curriculum coordinators and procurement officers who approve pilots and larger purchases, IT administrators who vet network/privacy/security and device management, after‑school program leads and robotics club organizers seeking affordable, hackable hardware, and higher-education / vocational instructors requiring TinyML edge-AI demos. Tertiary audience: hobbyists, makers and community STEM facilitators who drive grassroots adoption through maker channels and marketplaces.",
+    "pain_points": [
+      "Budget and procurement timing: limited discretionary school funds, multi-month district procurement cycles, and need for volume discounts or grant support.",
+      "Teacher capacity and time: teachers lack time to build lessons, prefer turnkey lesson kits, short PD and quick-to-deploy classroom activities.",
+      "Evidence & standards alignment: administrators require measurable learning outcomes, curriculum mappings (NGSS/ISTE/CSTA) and pilot data to justify purchases.",
+      "Classroom readiness & reliability: concerns about device robustness, safety, warranty/replacements and easy classroom management at scale.",
+      "Technical gatekeeping: IT admins worry about Wi‑Fi/BLE security, device management, and privacy/data policies for connected devices."
+    ],
+    "selling_points": [
+      "Low-cost edge AI on ESP32: affordable on‑device TinyML demos (ESP32 variants) that deliver embodied AI robotics and sensor-driven projects at a fraction of SBC/AI-module cost.",
+      "Dual-path programming & progression: block/visual entry for younger learners plus MicroPython/C++/Arduino and TinyML workflows for advanced students and hobbyists.",
+      "Standards-mapped curriculum bundle: short starter lessons, rubrics and NGSS/ISTE/CSTA/Common Core mappings + pre/post assessments for pilot evidence.",
+      "Teacher enablement & turnkey pilots: micro‑PD videos, classroom management guides, RFP/ROI templates and pilot kits to shorten adoption cycles.",
+      "Maker-friendly ecosystem & channels: strong hackability and community examples via Adafruit/Seeed/Amazon to drive grassroots interest while supporting institutional channels with school-ready packaging."
+    ],
+    "content_framework": [
+      "Awareness & community seeding: publish maker projects, community tutorials, and marketplace listings (Adafruit/Seeed/Amazon/Tindie); amplify with maker influencer demos and GitHub examples.",
+      "Teacher-facing launch content: provide short lesson bundles (starter + extension), standards mapping sheets, classroom time-boxed activities and micro‑PD video series for quick onboarding.",
+      "Pilot program kit & conversion content: offer an 8–12 week pilot package including pre/post assessment templates, teacher time-saved metrics, case study playbook and grant/RFP support documents.",
+      "Progression tutorials & TinyML pathways: structured learning paths from block coding → MicroPython → TinyML experiments (on-device inference), with sample datasets and debugging guides.",
+      "Admin & procurement collateral: ROI calculators, total-cost-of-ownership comparisons vs. competitors, cooperative-purchasing playbook and multi-year support/subscription options."
+    ],
+    "tone_of_voice": "Practical, supportive and educator-first: clear, evidence-oriented and accessible to non-technical teachers while retaining confident technical credibility for IT and procurement stakeholders. Friendly and community-minded for hobbyists.",
+    "brand_pillars": [
+      "Affordability & access: deliver low-cost edge-AI experiences so more classrooms can participate in hands-on AI learning.",
+      "Pedagogical impact: standards-aligned curriculum, measurable outcomes and scaffolded learning progressions from beginner to advanced.",
+      "Teacher-first support: minimal-prep lessons, short PD, classroom management tools and responsive after-sales support.",
+      "Open hackability & longevity: open programming pathways (blocks → MicroPython → C++/Arduino), modular sensors/actuators and community-driven extensions.",
+      "Reliability for classrooms: ruggedized packaging/options, clear warranty/replacement parts and secure connectivity practices for school IT."
+    ],
+    "keywords": [
+      "ESP32 TinyML kit",
+      "edge AI education",
+      "embodied AI robotics classroom",
+      "STEM robotics kit",
+      "MicroPython STEM kit",
+      "TinyML lesson plans",
+      "standards-aligned AI curriculum",
+      "ESP32 educational robot"
+    ]
+  },
+  "copywriting": {
+    "hero_message": "Bring affordable, standards-aligned edge-AI to your classroom with an ESP32 TinyML kit that empowers teachers, engages students, and scales from block coding to real TinyML projects.",
+    "social_posts": [
+      {
+        "platform": "LinkedIn",
+        "tone": "professional",
+        "hook": "Want a low-cost way to teach real AI in K–12 classrooms without needing a CS degree?",
+        "body": "Our ESP32 TinyML kit delivers embodied AI projects students can touch, program, and iterate on — with standards-aligned lessons, short micro‑PD videos, and pilot-ready materials that make school adoption fast and defensible. Built for teachers: block-first lessons that scale to MicroPython and TinyML, plus assessments and ROI templates for district approval.",
+        "cta": "Request a pilot kit and teacher bundle",
+        "image_suggestion": "Photo of middle school students gathered around an ESP32-powered robot doing a sensor demo, teacher guiding a tablet",
+        "hashtags": [
+          "#EdgeAI",
+          "#EducationTech",
+          "#TinyML",
+          "#STEM",
+          "#K12"
+        ]
+      },
+      {
+        "platform": "Instagram",
+        "tone": "casual",
+        "hook": "Tiny robot, huge ideas — AI students can hold.",
+        "body": "From block coding to on-device TinyML, our ESP32 kit makes AI hands-on, affordable, and classroom-ready. Quick lessons, micro‑PD, and extension projects keep every learner engaged — makers, clubs, and classrooms welcome. Swipe to see a 20‑minute starter project teachers love.",
+        "cta": "Grab a classroom starter kit → link in bio",
+        "image_suggestion": "Carousel: 1) cute ESP32 robot close-up, 2) screenshot of block editor, 3) teacher with students testing model on device",
+        "hashtags": [
+          "#STEMEducation",
+          "#EdTech",
+          "#ESP32",
+          "#TinyML",
+          "#Robotics"
+        ]
+      },
+      {
+        "platform": "Rednote",
+        "tone": "authentic",
+        "hook": "Looking for an affordable ESP32 kit that actually works in the classroom?",
+        "body": "We built a teacher-first ESP32 TinyML kit with short lesson packs mapped to NGSS/ISTE, classroom management guides, and microsessions for teachers. No heavy setup, no lengthy procurement surprises — just reliable hardware that students can hack and grow into MicroPython and TinyML experiments.",
+        "cta": "Download the free lesson pack and pilot playbook",
+        "image_suggestion": "Flat-lay of kit contents on a classroom table with printed lesson cards and a tablet editor",
+        "hashtags": [
+          "#ESP32",
+          "#Education",
+          "#TinyML",
+          "#STEMKits",
+          "#MakerEd"
+        ]
+      },
+      {
+        "platform": "Twitter",
+        "tone": "concise",
+        "hook": "Teach real AI on a budget — no cloud required.",
+        "body": "Our ESP32 TinyML kit gives students hands-on embedded AI projects, block→Python progression, and teacher-ready curriculum mapped to standards. Perfect for classroom pilots and after‑school clubs.",
+        "cta": "Get a pilot kit → [link]",
+        "image_suggestion": "Student holding up the ESP32 board with LEDs and a small sensor module",
+        "hashtags": [
+          "#TinyML",
+          "#ESP32",
+          "#EdTech",
+          "#STEM"
+        ]
+      }
+    ],
+    "blog_outline": [
+      "Introduction: Why embodied edge-AI belongs in K–12 classrooms",
+      "The challenges schools face when adopting AI hardware",
+      "How an ESP32 TinyML kit solves budget, teacher time, and IT concerns",
+      "Product breakdown: hardware, software, and learning pathways",
+      "Teacher enablement: lesson bundles, micro‑PD, and classroom-ready resources",
+      "Pilot-ready approach: timeline, metrics, and grant/RFP support",
+      "Progression roadmap: blocks → MicroPython → TinyML on-device inference",
+      "Admin & procurement: ROI, TCO, and IT/security considerations",
+      "Community & maker channels that accelerate adoption",
+      "Practical classroom examples and a sample 6‑week pilot plan",
+      "How to get started today (ordering, PD, next steps)",
+      "Conclusion: Bringing affordable embodied AI to every classroom"
+    ],
+    "blog_article": "# Bring affordable, standards-aligned embodied AI into your classroom with an ESP32 TinyML kit\n\nAI isn't just a cloud concept — it's something students can build, test, and iterate on physically. An ESP32-based TinyML kit delivers on-device intelligence for a fraction of the cost of single-board computers, while giving teachers scaffolded lessons and administrators the evidence they need to approve pilots and purchases.\n\nIn this post you'll learn why ESP32 TinyML kits are uniquely suited for K–12 and after-school programs, how to remove common adoption barriers, and a practical playbook for running a successful classroom pilot.\n\n## Why embodied edge-AI belongs in K–12 classrooms\n\nEmbodied AI — small robots and sensor-driven projects that run models on the device — turns abstract AI ideas into tactile learning. Students see input → processing → action in real time. That reinforces computational thinking, data literacy, and cross-curricular projects (science, engineering, math, and even SEL).\n\nKey classroom benefits:\n\n- Immediate, hands-on feedback that keeps students motivated.\n- Opportunities to teach data collection, model thinking, and ethics around AI in age‑appropriate ways.\n- Cost-effective scale using ESP32 TinyML hardware vs. pricier SBCs or cloud‑dependent solutions.\n\n## The challenges schools face when adopting AI hardware\n\nBefore recommending new tech, teachers and administrators often raise the same concerns:\n\n- Budget constraints and long procurement cycles.\n- Teachers' limited prep time and need for turnkey lessons.\n- Administrator demands for measurable learning outcomes and standards alignment.\n- Classroom durability, warranty/replacement logistics, and simple device management.\n- IT concerns about network security and privacy for connected devices.\n\nA successful product must address each of these—both through design and through supporting materials.\n\n## How an ESP32 TinyML kit solves those challenges\n\nESP32 TinyML kits are designed to target these exact pain points:\n\n- Affordability & access: ESP32-based boards cost a fraction of many alternatives, enabling full-classroom deployment (20–30 students) on modest budgets.\n- Teacher-first support: block-based entry plus short micro‑PD videos, turnkey lessons, rubrics, and pre/post assessments reduce teacher prep time.\n- Standards mapping & evidence: NGSS/ISTE/CSTA mappings, assessment templates, and teacher-facing learning objectives help build a pilot case for procurement.\n- Reliability & classroom readiness: ruggedized packaging options, spare parts kits, and clear replacement policies reduce downtime.\n- IT-friendly design: local, on-device inference avoids unnecessary cloud data; clear network configuration guides and device-management playbooks simplify IT sign-off.\n\nThese selling points make ESP32 TinyML kits attractive to both classroom teachers and district-level decision-makers.\n\n## Product breakdown: hardware, software, and learning pathways\n\nA strong classroom-ready kit includes three pillars:\n\n1. Hardware\n   - ESP32 variant with sufficient flash/RAM for TinyML models.\n   - Built-in sensors (microphone, accelerometer, light) and easy connector ports for extra sensors/actuators.\n   - Rugged casing or optional classroom-ready shells; spare parts pack for common wear items.\n\n2. Software & tools\n   - Block/visual programming interface for immediate classroom wins (20–30 minute projects).\n   - MicroPython/Arduino support for progression.\n   - TinyML toolchain examples and pre-trained models optimized for on-device inference.\n\n3. Curriculum & assessments\n   - Short starter lessons (20–40 minutes) mapped to NGSS/ISTE/CSTA and with rubrics.\n   - Extension projects for cross-grade differentiation.\n   - Pre/post assessment templates and student reflection prompts.\n\nKeywords to emphasize in communications: ESP32 TinyML kit, edge AI education, embodied AI robotics classroom, standards-aligned AI curriculum.\n\n## Teacher enablement: make deployment painless\n\nTeachers are time-poor. Your product must minimize friction:\n\n- Micro‑PD videos (5–12 minutes) that model the first classroom activity.\n- One-page lesson plans and teacher-facing cheat sheets for classroom management and troubleshooting.\n- Classroom bundles with enough devices and spares to run project-based lessons for a whole period.\n- Quick-start labs that run in 20–30 minutes and demonstrate a complete cycle (collect → label → train → deploy).\n\nExample 20‑minute starter activity: \"Sound-Triggered Robot\"\n\n- Objective: Collect audio clips, label 'clap' vs. 'no clap', deploy a tiny keyword spotter to make an LED flash.\n- Steps: 5 min intro + demo, 8 min data collection in pairs, 5 min simple model deploy (pre-trained option available), 2 min reflection.\n\nThis activity teaches data collection, model purpose, and the ethics of data (what counts as a 'sample'?).\n\n## Pilot-ready approach: timeline, metrics, and support collateral\n\nA successful pilot reduces risk for schools. Offer a clear pilot package:\n\n- 6–12 week pilot kit including 6–10 devices, teacher PD access, student lesson packs, pre/post assessments, and a pilot playbook.\n- Metrics to collect: student engagement minutes/hours, pre/post assessment score changes, teacher time saved (prep hours), and qualitative teacher/staff feedback.\n- Provide RFP/RFQ templates, ROI calculators (cost per student vs. alternatives), and a grant-support checklist for Title I/ STEM grants.\n\nSample pilot timeline (8 weeks):\n\n- Week 0: Admin sign-off; IT pre-check; receive kit and PD links.\n- Week 1: Teacher micro‑PD and 1 classroom demo lesson.\n- Weeks 2–4: Student lessons (starter → extension), run in 3–4 classes.\n- Week 5: Small student-led projects; collect artifacts.\n- Week 6: Final assessment and teacher feedback.\n- Week 7: Compile results and share case study playbook with district.\n\n## Progression roadmap: block → MicroPython → TinyML\n\nDesign learning pathways so students and teachers can grow naturally:\n\n- Starter level (blocks): Visual programming, basic sensors, and immediate wins. Ideal for K–8 and quick club demos.\n- Intermediate (MicroPython/Arduino): Text-based coding, debugging basics, and hardware control — perfect for middle/high school and vocational classes.\n- Advanced (TinyML): On-device model training workflows or transfer learning with pre-processed datasets. Teach students about model accuracy, overfitting, and real-world constraints of edge devices.\n\nProvide scaffolded lesson sequences and sample datasets so teachers don't need to invent the wheel.\n\n## Admin & procurement: speak procurement's language\n\nProcurement and IT need clear, defensible answers:\n\n- ROI & TCO: Show cost per student, expected lifespan of devices, spare parts needs, and support/subscription options. Compare with SBC/cloud-based alternatives.\n- Security & privacy: Emphasize local, on-device inference that minimizes cloud data. Provide network configuration guides and recommended firewall/ACL settings.\n- Warranty & replacement: Offer classroom-level SLAs or easy replacement packs to remove classroom downtime worry.\n\nProvide a downloadable procurement packet: spec sheet, sample RFP language, total cost calculator, and pilot results template.\n\n## Community & maker channels accelerate adoption\n\nSupport grassroots adoption while maintaining school-ready channels:\n\n- Publish maker projects and GitHub examples to seed community interest (Adafruit/Seeed/Amazon/Tindie listings help visibility).\n- Partner with maker influencers for demo videos that teachers can show to students or parents.\n- Encourage teacher and student showcase pages to build social proof and case studies.\n\nCommunity growth drives word-of-mouth, while school-ready packaging closes institutional deals.\n\n## Practical classroom examples and a sample 6‑week pilot plan\n\nConcrete lesson ideas:\n\n- Week 1 (Intro): \"Light and Reaction\" — blocks to make an LED respond to light changes.\n- Week 2: \"MicroPython Basics\" — read a sensor and print values to a console.\n- Week 3: \"Data Collection\" — collect labeled gestures or sounds.\n- Week 4: \"TinyML Deploy\" — use a pre-trained on-device model to recognize a gesture or sound.\n- Week 5: \"Student Project\" — small groups design a use-case (robot guard, animal sound classifier, etc.).\n- Week 6: \"Showcase & Assessment\" — students present, run pre/post assessment, collect reflections.\n\nAssessment examples:\n\n- Short quiz on AI concepts (5 questions) pre/post.\n- Performance rubric for the student project (planning, data quality, model performance, presentation).\n- Teacher time-saved metric: estimate of prep hours saved vs. creating lessons from scratch.\n\n## How to get started today\n\n1. Download the free starter lesson pack and pilot playbook.\n2. Order a pilot kit sized to your class (6–10 for trials; 20–30 for full deployment) or request a loaner demo.\n3. Watch the 10‑minute teacher micro‑PD and run the 20‑minute starter lesson.\n4. Use the included RFP/RFQ template and ROI calculator to make the case to your district.\n\nIf you want help, request a pilot consultation and we'll walk your team through IT checks, teacher PD scheduling, and pilot metrics.\n\n## Conclusion: Make AI tangible, equitable, and classroom-ready\n\nESP32 TinyML kits let students experience AI where it matters — in their hands and in real projects. By combining affordability, teacher-first resources, standards-aligned curriculum, and a clear pilot playbook, you can bring embodied edge-AI into classrooms without heavy procurement overhead or long teacher prep times.\n\nStart small, measure impact, and scale — and you'll not only teach AI concepts, you'll give students the confidence to build the future.\n\n---\n\nResources and downloads: lesson pack, pilot playbook, RFP template, ROI calculator (link to product site or contact form).",
+    "pain_point_analysis": [
+      "Budget and procurement timing: Offer low-cost ESP32 hardware and pilot-sized bundles (6–10 units) plus ROI/TCO calculators and ready-made RFP templates to shorten approval cycles and support grant applications.",
+      "Teacher capacity and time: Provide turnkey lesson bundles, 5–12 minute micro‑PD videos, one-page teacher cheat sheets and 20–30 minute starter activities so teachers can deploy lessons with minimal prep.",
+      "Evidence & standards alignment: Include NGSS/ISTE/CSTA/Common Core mapping, pre/post assessment templates and a pilot playbook to generate measurable outcomes for administrators.",
+      "Classroom readiness & reliability: Supply classroom-ready packaging, spare parts kits, clear warranty/replacement policies and classroom management guides to minimize downtime and simplify logistics.",
+      "Technical gatekeeping: Minimize cloud exposure with on-device TinyML, provide IT-ready network/security guides, and offer device-management playbooks to win IT approval."
+    ],
+    "cta_variations": [
+      "Request a pilot kit and teacher bundle",
+      "Download the free lesson pack and pilot playbook",
+      "Schedule a demo and classroom walkthrough",
+      "Order a classroom starter kit (20–30 student pack)",
+      "Get procurement support: download the RFP & ROI template",
+      "Join our teacher community and get weekly micro‑PD"
+    ]
+  },
+  "images": {
+    "prompts": [
+      {
+        "prompt_id": "prompt-01",
+        "prompt": "A bright, candid classroom scene of 6 diverse middle-school students gathered around a wooden table, excitedly inspecting a small ESP32-powered robot with color LEDs and a microphone sensor. A teacher leans in, guiding with a tablet that displays a colorful block-based coding interface. Natural morning sunlight from tall windows casts warm, soft rim light; shallow depth of field focusing on the robot and students' hands, gentle bokeh background with posters and STEM materials. Composition: eye-level, cinematic, documentary-style, high detail, vibrant colors, friendly and energetic atmosphere.",
+        "scene_description": "明亮的教室场景：6名多元化的中学生围在木桌旁，兴奋地检查带有彩色灯和麦克风传感器的ESP32机器人。一名教师手持平板展示积木式编程界面并引导学生。自然晨光从高窗洒入，画面焦点在机器人和学生的手，背景有STEM海报，氛围友好而充满活力。",
+        "style": "cinematic documentary, high-detail, vibrant colors, shallow depth of field",
+        "aspect_ratio": "4:3"
+      },
+      {
+        "prompt_id": "prompt-02",
+        "prompt": "Studio-style product hero shot of an ESP32 TinyML educational kit on a clean matte white surface: the ESP32 board with visible silkscreen, detachable sensor modules (microphone, accelerometer, light), a small wheeled chassis, USB-C cable, printed lesson cards fanned out, and a tablet showing a TinyML model deployment screen. Soft box lighting from above creates crisp, even illumination with subtle soft shadows; top-down 3/4 angle, high-resolution, minimal background, clinical yet approachable, sharp detail for marketing use.",
+        "scene_description": "产品主视觉：在干净的哑光白表面上的ESP32 TinyML 教育套件——可见丝印的ESP32板、可拆卸传感模块（麦克风、加速度计、光传感器）、小轮式底盘、USB-C线、摊开的课程卡片和显示TinyML部署界面的平板。柔光箱自上方均匀照明，画面清晰、简洁且亲和，适合营销展示。",
+        "style": "studio product hero, clean minimal, clinical-approachable, sharp detail",
+        "aspect_ratio": "4:3"
+      }
+    ],
+    "assets": [
+      {
+        "prompt_id": "prompt-01",
+        "url": "artifacts/campaigns/20251202_000212_campaign/images/20251202_000632_prompt-01.png",
+        "local_path": "artifacts/campaigns/20251202_000212_campaign/images/20251202_000632_prompt-01.png",
+        "revised_prompt": "A bright, candid classroom scene of 6 diverse middle-school students gathered around a wooden table, excitedly inspecting a small ESP32-powered robot with color LEDs and a microphone sensor. A teacher leans in, guiding with a tablet that displays a colorful block-based coding interface. Natural morning sunlight from tall windows casts warm, soft rim light; shallow depth of field focusing on the robot and students' hands, gentle bokeh background with posters and STEM materials. Composition: eye-level, cinematic, documentary-style, high detail, vibrant colors, friendly and energetic atmosphere.",
+        "prompt": "A bright, candid classroom scene of 6 diverse middle-school students gathered around a wooden table, excitedly inspecting a small ESP32-powered robot with color LEDs and a microphone sensor. A teacher leans in, guiding with a tablet that displays a colorful block-based coding interface. Natural morning sunlight from tall windows casts warm, soft rim light; shallow depth of field focusing on the robot and students' hands, gentle bokeh background with posters and STEM materials. Composition: eye-level, cinematic, documentary-style, high detail, vibrant colors, friendly and energetic atmosphere."
+      },
+      {
+        "prompt_id": "prompt-02",
+        "url": "artifacts/campaigns/20251202_000212_campaign/images/20251202_000639_prompt-02.png",
+        "local_path": "artifacts/campaigns/20251202_000212_campaign/images/20251202_000639_prompt-02.png",
+        "revised_prompt": "Studio-style product hero shot of an ESP32 TinyML educational kit on a clean matte white surface: the ESP32 board with visible silkscreen, detachable sensor modules (microphone, accelerometer, light), a small wheeled chassis, USB-C cable, printed lesson cards fanned out, and a tablet showing a TinyML model deployment screen. Soft box lighting from above creates crisp, even illumination with subtle soft shadows; top-down 3/4 angle, high-resolution, minimal background, clinical yet approachable, sharp detail for marketing use.",
+        "prompt": "Studio-style product hero shot of an ESP32 TinyML educational kit on a clean matte white surface: the ESP32 board with visible silkscreen, detachable sensor modules (microphone, accelerometer, light), a small wheeled chassis, USB-C cable, printed lesson cards fanned out, and a tablet showing a TinyML model deployment screen. Soft box lighting from above creates crisp, even illumination with subtle soft shadows; top-down 3/4 angle, high-resolution, minimal background, clinical yet approachable, sharp detail for marketing use."
+      }
+    ]
+  },
+  "video": {
+    "structure_notes": [
+      "Three-act marketing short: Problem → Solution → Transformation",
+      "Unified protagonist: 34-year-old female teacher, shoulder-length dark hair, navy blazer",
+      "Consistent kit visuals: teal ESP32 kit box, small ESP32 robot with RGB LED and microphone sensor",
+      "Warm cinematic lighting, shallow depth of field, documentary-style classroom footage",
+      "Total runtime optimized for social: 4 scenes × 8s = 32s"
+    ],
+    "scenes": [
+      {
+        "scene_number": 1,
+        "act": "Problem",
+        "visuals": "Medium close on a 34-year-old female teacher (shoulder-length dark hair, navy blazer) looking overwhelmed amid stacks of lesson plans and a laptop showing setup errors; slow dolly out to reveal restless 11–14 year-old students and an unopened teal ESP32 kit on a shelf.",
+        "voiceover": "Teachers are stretched thin — long setup, confusing tools, and no time to build lessons from scratch.",
+        "screen_text": "Problem: Setup takes too long",
+        "duration_seconds": 8,
+        "description": "Establish pain: teacher frustration, unopened kit visible as potential solution.",
+        "narration": "Teachers are stretched thin — long setup, confusing tools, and no time to build lessons from scratch.",
+        "caption": "Teacher overwhelmed; unopened kit sits to the side.",
+        "audio": "Quiet ambient classroom noise, distant student fidgeting; soft low piano underscore.",
+        "audio_narration": "Voiceover delivering problem line with warm supportive tone.",
+        "on_screen_text": "Problem: Setup takes too long",
+        "camera_moves": "Start medium close; slow dolly out to wide over 8 seconds.",
+        "camera_actions": "Rack focus from teacher face to unopened kit on shelf.",
+        "props": "stacks of lesson plans, laptop with error pop-ups, teal ESP32 kit box (unopened)",
+        "speaker": "Narrator (voiceover)",
+        "dialogue": [
+          "Teacher (silent acting): worried expressions, searching through papers"
+        ],
+        "visual": "Warm morning sunlight; shallow depth of field emphasizing teacher expression.",
+        "actions": "Teacher sighs, rubs temples; students fidget in background.",
+        "camera_instructions": "Maintain cinematic warm grading; keep teacher framed slightly off-center.",
+        "camera_direction": "Slow outward movement to reveal context.",
+        "actor_actions": "Teacher scans laptop, glances at unopened kit, exhales.",
+        "sfx": "Subtle page rustle; distant chair movement.",
+        "transition": "Cut to teacher opening the kit (match on teal box).",
+        "shot_description": "Problem set-up close to wide establishing emotion and context.",
+        "visual_instructions": "Keep color palette warm; teal kit as visual accent.",
+        "sound_instructions": "Understated piano; no loud music to preserve sincerity."
+      },
+      {
+        "scene_number": 2,
+        "act": "Solution",
+        "visuals": "Over-the-shoulder and close-up shots of the same teacher opening the teal ESP32 kit at a desk, removing pre-printed lesson cards and the small ESP32 board; students in the background start leaning in, curious.",
+        "voiceover": "Our classroom-ready ESP32 TinyML kit includes plug-and-play lessons, pre-printed teacher cards, and a tablet-friendly block editor.",
+        "screen_text": "Plug-and-play kits + micro‑PD",
+        "duration_seconds": 8,
+        "description": "Reveal product as accessible solution — tactile unboxing and teacher relief.",
+        "narration": "Our classroom-ready ESP32 TinyML kit includes plug-and-play lessons, pre-printed teacher cards, and a tablet-friendly block editor.",
+        "caption": "Teacher opens kit; finds lesson cards and device.",
+        "audio": "Soft hopeful piano swell; slight paper shuffle SFX when pulling out lesson cards.",
+        "audio_narration": "Voiceover explains kit contents and teacher support resources.",
+        "on_screen_text": "Plug-and-play kits • Teacher micro‑PD",
+        "camera_moves": "Close-ups on hands and tablet, gentle rack focus to smiling students.",
+        "camera_actions": "Cut between top-down unboxing and over-the-shoulder tablet views.",
+        "props": "teal ESP32 kit box, lesson cards, small ESP32 board, USB-C cable, tablet with block editor visible",
+        "speaker": "Narrator (voiceover)",
+        "dialogue": [
+          "Teacher (softly): \"Oh, these look ready-to-run.\""
+        ],
+        "visual": "Warm, inviting table shot; concentrate on accessibility and simplicity.",
+        "actions": "Teacher plugs board into USB, students notice and smile.",
+        "camera_instructions": "Show readable lesson card text and clear tablet UI.",
+        "camera_direction": "Match cut to tablet UI in next scene.",
+        "actor_actions": "Teacher nods, shows tablet screen to students.",
+        "sfx": "USB click, light paper rustle.",
+        "transition": "Match cut from lesson card graphic to block on tablet UI."
+      },
+      {
+        "scene_number": 3,
+        "act": "Solution",
+        "visuals": "Over-the-shoulder close-up of the tablet showing a colorful block-based interface; teacher drags a block labeled 'Clap Detection → Flash LED' and taps 'Deploy'. Match cut to the ESP32 robot LED flashing in response to a student's clap; students cheer.",
+        "voiceover": "Drag, deploy, and run — teach TinyML on-device in minutes. No cloud required.",
+        "screen_text": "Block → Deploy → Run in minutes",
+        "duration_seconds": 8,
+        "description": "Show product flow: simple block programming to on-device TinyML action and immediate student engagement.",
+        "narration": "Drag, deploy, and run — teach TinyML on-device in minutes. No cloud required.",
+        "caption": "Teacher deploys model; robot responds to clap.",
+        "audio": "Button tap SFX, a clear single student clap, burst of student laughter; upbeat tempo builds.",
+        "audio_narration": "Voiceover with confident, encouraging tone.",
+        "on_screen_text": "Block → Deploy → Run in minutes",
+        "camera_moves": "Quick push-in on tablet, match cut to robot and faces; keep motion smooth.",
+        "camera_actions": "Fast cut from UI to robot; capture reaction shots of students.",
+        "props": "tablet, ESP32 mini robot with RGB LED, small table sensors",
+        "speaker": "Narrator (voiceover)",
+        "dialogue": [
+          "Student (cheer): \"It worked!\""
+        ],
+        "visual": "Joyful close-ups; brightened highlights to convey success.",
+        "actions": "Student claps; robot flashes; group high-fives.",
+        "camera_instructions": "Capture the emotional payoff in faces and product response.",
+        "camera_direction": "Match action timing between tablet tap and LED flash.",
+        "actor_actions": "Students cheer, point at robot, exchange excited glances.",
+        "sfx": "Clap, LED blink sound accent, brief applause.",
+        "transition": "Dissolve to classroom showcase scene."
+      },
+      {
+        "scene_number": 4,
+        "act": "Transformation",
+        "visuals": "Bright classroom showcase: same teacher standing confidently as students present multiple ESP32 robots running different TinyML demos (sound, gesture, light). Students proudly explain projects while classmates applaud; slow push-in on teacher's satisfied expression.",
+        "voiceover": "Teachers save prep time and run real embodied AI projects. Bring affordable TinyML to your classroom today.",
+        "screen_text": "Bring embodied AI to your classroom",
+        "duration_seconds": 8,
+        "description": "Show long-term impact: confident teacher, empowered students, multiple working demos — social proof and aspirational outcome.",
+        "narration": "Teachers save prep time and run real embodied AI projects. Bring affordable TinyML to your classroom today.",
+        "caption": "Students present projects; teacher beams with pride.",
+        "audio": "Warm celebratory music lift, student applause and chatter, light ambient classroom sounds.",
+        "audio_narration": "Final call-to-action voiceover with upbeat, inspiring tone.",
+        "on_screen_text": "Request a pilot kit and teacher bundle → [link]",
+        "camera_moves": "Medium wide to slow push-in on teacher face over 8 seconds.",
+        "camera_actions": "Cut between student presenters and teacher close-up.",
+        "props": "multiple ESP32 robots on table, printed project boards, tablet demos",
+        "speaker": "Narrator (voiceover)",
+        "dialogue": [
+          "Student presenter: \"This robot listens for claps and waves its light!\"",
+          "Teacher (smiling): \"Amazing work.\""
+        ],
+        "visual": "Warm, celebratory documentary look; vibrant colors and proud faces.",
+        "actions": "Students demonstrate, audience claps, teacher nods approvingly.",
+        "camera_instructions": "End on a satisfying, hopeful frame centered on teacher with students in soft focus.",
+        "camera_direction": "Slow, confident push-in to underscore transformation.",
+        "actor_actions": "Teacher stands tall, places hand over heart, smiles.",
+        "sfx": "Applause, happy murmurs, gentle music swell.",
+        "transition": "Fade to brand lockup and CTA."
+      }
+    ],
+    "total_duration_seconds": 32,
+    "cta": "Request a pilot kit and teacher bundle",
+    "srt_caption": "00:00:00,000 --> 00:00:08,000\nTeachers are stretched thin — long setup, confusing tools, and no time to build lessons from scratch.\n\n00:00:08,000 --> 00:00:16,000\nOur classroom-ready ESP32 TinyML kit includes plug-and-play lessons, pre-printed teacher cards, and a tablet-friendly block editor.\n\n00:00:16,000 --> 00:00:24,000\nDrag, deploy, and run — teach TinyML on-device in minutes. No cloud required.\n\n00:00:24,000 --> 00:00:32,000\nTeachers save prep time and run real embodied AI projects. Bring affordable TinyML to your classroom today."
+  }
+}

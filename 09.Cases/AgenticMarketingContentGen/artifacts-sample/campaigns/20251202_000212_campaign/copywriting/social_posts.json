@@ -1,0 +1,61 @@
+[
+  {
+    "platform": "LinkedIn",
+    "tone": "professional",
+    "hook": "Want a low-cost way to teach real AI in K–12 classrooms without needing a CS degree?",
+    "body": "Our ESP32 TinyML kit delivers embodied AI projects students can touch, program, and iterate on — with standards-aligned lessons, short micro‑PD videos, and pilot-ready materials that make school adoption fast and defensible. Built for teachers: block-first lessons that scale to MicroPython and TinyML, plus assessments and ROI templates for district approval.",
+    "cta": "Request a pilot kit and teacher bundle",
+    "image_suggestion": "Photo of middle school students gathered around an ESP32-powered robot doing a sensor demo, teacher guiding a tablet",
+    "hashtags": [
+      "#EdgeAI",
+      "#EducationTech",
+      "#TinyML",
+      "#STEM",
+      "#K12"
+    ]
+  },
+  {
+    "platform": "Instagram",
+    "tone": "casual",
+    "hook": "Tiny robot, huge ideas — AI students can hold.",
+    "body": "From block coding to on-device TinyML, our ESP32 kit makes AI hands-on, affordable, and classroom-ready. Quick lessons, micro‑PD, and extension projects keep every learner engaged — makers, clubs, and classrooms welcome. Swipe to see a 20‑minute starter project teachers love.",
+    "cta": "Grab a classroom starter kit → link in bio",
+    "image_suggestion": "Carousel: 1) cute ESP32 robot close-up, 2) screenshot of block editor, 3) teacher with students testing model on device",
+    "hashtags": [
+      "#STEMEducation",
+      "#EdTech",
+      "#ESP32",
+      "#TinyML",
+      "#Robotics"
+    ]
+  },
+  {
+    "platform": "Rednote",
+    "tone": "authentic",
+    "hook": "Looking for an affordable ESP32 kit that actually works in the classroom?",
+    "body": "We built a teacher-first ESP32 TinyML kit with short lesson packs mapped to NGSS/ISTE, classroom management guides, and microsessions for teachers. No heavy setup, no lengthy procurement surprises — just reliable hardware that students can hack and grow into MicroPython and TinyML experiments.",
+    "cta": "Download the free lesson pack and pilot playbook",
+    "image_suggestion": "Flat-lay of kit contents on a classroom table with printed lesson cards and a tablet editor",
+    "hashtags": [
+      "#ESP32",
+      "#Education",
+      "#TinyML",
+      "#STEMKits",
+      "#MakerEd"
+    ]
+  },
+  {
+    "platform": "Twitter",
+    "tone": "concise",
+    "hook": "Teach real AI on a budget — no cloud required.",
+    "body": "Our ESP32 TinyML kit gives students hands-on embedded AI projects, block→Python progression, and teacher-ready curriculum mapped to standards. Perfect for classroom pilots and after‑school clubs.",
+    "cta": "Get a pilot kit → [link]",
+    "image_suggestion": "Student holding up the ESP32 board with LEDs and a small sensor module",
+    "hashtags": [
+      "#TinyML",
+      "#ESP32",
+      "#EdTech",
+      "#STEM"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "GHModel_dotNET_AI_Workflow_AGUI_Server": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5018"
+    }
+  }
+}
+

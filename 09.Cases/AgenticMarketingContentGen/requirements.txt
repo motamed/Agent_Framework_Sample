@@ -1,0 +1,27 @@
+# Microsoft Agent Framework - Core
+# Install from source until published on PyPI:
+#   pip install /path/to/agentframework/python/packages/core
+# Or use the following when available:
+# agent-framework>=0.1.0
+
+# Required dependencies
+pydantic>=2.0.0,<3.0.0
+python-dotenv>=1.0.0
+
+# Azure OpenAI (recommended)
+openai>=1.0.0,<2.0.0
+azure-identity>=1.15.0
+
+# Web search (market research)
+tavily-python>=0.5.0
+
+# HTTP requests (for video generation API)
+requests>=2.31.0
+
+# Optional: for running CLI
+# argparse is stdlib, no extra install needed
+
+# Development dependencies (optional)
+# pytest>=8.0.0
+# pytest-asyncio>=0.23.0
+# ruff>=0.4.0

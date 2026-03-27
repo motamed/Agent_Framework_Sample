@@ -1,0 +1,16 @@
+[
+  {
+    "prompt_id": "prompt-01",
+    "prompt": "A bright, candid classroom scene of 6 diverse middle-school students gathered around a wooden table, excitedly inspecting a small ESP32-powered robot with color LEDs and a microphone sensor. A teacher leans in, guiding with a tablet that displays a colorful block-based coding interface. Natural morning sunlight from tall windows casts warm, soft rim light; shallow depth of field focusing on the robot and students' hands, gentle bokeh background with posters and STEM materials. Composition: eye-level, cinematic, documentary-style, high detail, vibrant colors, friendly and energetic atmosphere.",
+    "scene_description": "明亮的教室场景：6名多元化的中学生围在木桌旁，兴奋地检查带有彩色灯和麦克风传感器的ESP32机器人。一名教师手持平板展示积木式编程界面并引导学生。自然晨光从高窗洒入，画面焦点在机器人和学生的手，背景有STEM海报，氛围友好而充满活力。",
+    "style": "cinematic documentary, high-detail, vibrant colors, shallow depth of field",
+    "aspect_ratio": "4:3"
+  },
+  {
+    "prompt_id": "prompt-02",
+    "prompt": "Studio-style product hero shot of an ESP32 TinyML educational kit on a clean matte white surface: the ESP32 board with visible silkscreen, detachable sensor modules (microphone, accelerometer, light), a small wheeled chassis, USB-C cable, printed lesson cards fanned out, and a tablet showing a TinyML model deployment screen. Soft box lighting from above creates crisp, even illumination with subtle soft shadows; top-down 3/4 angle, high-resolution, minimal background, clinical yet approachable, sharp detail for marketing use.",
+    "scene_description": "产品主视觉：在干净的哑光白表面上的ESP32 TinyML 教育套件——可见丝印的ESP32板、可拆卸传感模块（麦克风、加速度计、光传感器）、小轮式底盘、USB-C线、摊开的课程卡片和显示TinyML部署界面的平板。柔光箱自上方均匀照明，画面清晰、简洁且亲和，适合营销展示。",
+    "style": "studio product hero, clean minimal, clinical-approachable, sharp detail",
+    "aspect_ratio": "4:3"
+  }
+]

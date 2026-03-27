@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Dev_UI_Applcaiton": {
+      "commandName": "Project",
+      "launchUrl": "devui",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:50518"
+    }
+  }
+}
+

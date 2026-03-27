@@ -1,0 +1,5 @@
+- Three-act marketing short: Problem → Solution → Transformation
+- Unified protagonist: 34-year-old female teacher, shoulder-length dark hair, navy blazer
+- Consistent kit visuals: teal ESP32 kit box, small ESP32 robot with RGB LED and microphone sensor
+- Warm cinematic lighting, shallow depth of field, documentary-style classroom footage
+- Total runtime optimized for social: 4 scenes × 8s = 32s

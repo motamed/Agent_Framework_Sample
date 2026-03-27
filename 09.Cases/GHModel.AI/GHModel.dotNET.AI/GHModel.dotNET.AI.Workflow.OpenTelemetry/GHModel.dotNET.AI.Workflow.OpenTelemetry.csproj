@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.AI.OpenAI" Version="2.1.0" />
+    <PackageReference Include="Azure.Identity" Version="1.17.1" />
+    <PackageReference Include="Azure.Monitor.OpenTelemetry.Exporter" Version="1.4.0" />
+    <PackageReference Include="Microsoft.Extensions.AI.OpenAI" Version="10.2.0-preview.1.26063.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="10.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="10.0.0" />
+    <PackageReference Include="OpenAI" Version="2.8.0" />
+    <PackageReference Include="OpenTelemetry" Version="1.13.1" />
+    <PackageReference Include="OpenTelemetry.Exporter.Console" Version="1.13.1" />
+    <PackageReference Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.13.1" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.Http" Version="1.13.0" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.Runtime" Version="1.13.0" />
+    <PackageReference Include="OpenTelemetry.Extensions.Hosting" Version="1.13.1" />
+    <PackageReference Include="DotNetEnv" Version="3.1.1" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="/Users/lokinfey/Desktop/AOAI/Foundry/agent-framework/dotnet/src/Microsoft.Agents.AI/Microsoft.Agents.AI.csproj" />
+    <ProjectReference Include="/Users/lokinfey/Desktop/AOAI/Foundry/agent-framework/dotnet/src/Microsoft.Agents.AI.Workflows/Microsoft.Agents.AI.Workflows.csproj" />
+    <ProjectReference Include="/Users/lokinfey/Desktop/AOAI/Foundry/agent-framework/dotnet/src/Microsoft.Agents.AI.OpenAI/Microsoft.Agents.AI.OpenAI.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+[
+  {
+    "prompt_id": "prompt-01",
+    "url": "artifacts/campaigns/20251202_000212_campaign/images/20251202_000632_prompt-01.png",
+    "local_path": "artifacts/campaigns/20251202_000212_campaign/images/20251202_000632_prompt-01.png",
+    "revised_prompt": "A bright, candid classroom scene of 6 diverse middle-school students gathered around a wooden table, excitedly inspecting a small ESP32-powered robot with color LEDs and a microphone sensor. A teacher leans in, guiding with a tablet that displays a colorful block-based coding interface. Natural morning sunlight from tall windows casts warm, soft rim light; shallow depth of field focusing on the robot and students' hands, gentle bokeh background with posters and STEM materials. Composition: eye-level, cinematic, documentary-style, high detail, vibrant colors, friendly and energetic atmosphere.",
+    "prompt": "A bright, candid classroom scene of 6 diverse middle-school students gathered around a wooden table, excitedly inspecting a small ESP32-powered robot with color LEDs and a microphone sensor. A teacher leans in, guiding with a tablet that displays a colorful block-based coding interface. Natural morning sunlight from tall windows casts warm, soft rim light; shallow depth of field focusing on the robot and students' hands, gentle bokeh background with posters and STEM materials. Composition: eye-level, cinematic, documentary-style, high detail, vibrant colors, friendly and energetic atmosphere."
+  },
+  {
+    "prompt_id": "prompt-02",
+    "url": "artifacts/campaigns/20251202_000212_campaign/images/20251202_000639_prompt-02.png",
+    "local_path": "artifacts/campaigns/20251202_000212_campaign/images/20251202_000639_prompt-02.png",
+    "revised_prompt": "Studio-style product hero shot of an ESP32 TinyML educational kit on a clean matte white surface: the ESP32 board with visible silkscreen, detachable sensor modules (microphone, accelerometer, light), a small wheeled chassis, USB-C cable, printed lesson cards fanned out, and a tablet showing a TinyML model deployment screen. Soft box lighting from above creates crisp, even illumination with subtle soft shadows; top-down 3/4 angle, high-resolution, minimal background, clinical yet approachable, sharp detail for marketing use.",
+    "prompt": "Studio-style product hero shot of an ESP32 TinyML educational kit on a clean matte white surface: the ESP32 board with visible silkscreen, detachable sensor modules (microphone, accelerometer, light), a small wheeled chassis, USB-C cable, printed lesson cards fanned out, and a tablet showing a TinyML model deployment screen. Soft box lighting from above creates crisp, even illumination with subtle soft shadows; top-down 3/4 angle, high-resolution, minimal background, clinical yet approachable, sharp detail for marketing use."
+  }
+]

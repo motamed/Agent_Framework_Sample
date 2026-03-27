@@ -1,0 +1,17 @@
+digraph Workflow {
+  rankdir=TD;
+  node [shape=box, style=filled, fillcolor=lightblue];
+  edge [color=black, arrowhead=vee];
+
+  "ConcurrentStartExecutor" [fillcolor=lightgreen, label="ConcurrentStartExecutor\n(Start)"];
+  "Researcher_Agent_80d1b11cb33b4185967484793bb5d058" [label="Researcher_Agent_80d1b11cb33b4185967484793bb5d058"];
+  "Plan_Agent_906e45ab69c840bab35ec9aaa7a8aa6d" [label="Plan_Agent_906e45ab69c840bab35ec9aaa7a8aa6d"];
+  "ConcurrentAggregationExecutor" [label="ConcurrentAggregationExecutor"];
+
+  "fan_in_ConcurrentAggregationExecutor_6C9C2866" [shape=ellipse, fillcolor=lightgoldenrod, label="fan-in"];
+  "Plan_Agent_906e45ab69c840bab35ec9aaa7a8aa6d" -> "fan_in_ConcurrentAggregationExecutor_6C9C2866";
+  "Researcher_Agent_80d1b11cb33b4185967484793bb5d058" -> "fan_in_ConcurrentAggregationExecutor_6C9C2866";
+  "fan_in_ConcurrentAggregationExecutor_6C9C2866" -> "ConcurrentAggregationExecutor";
+  "ConcurrentStartExecutor" -> "Researcher_Agent_80d1b11cb33b4185967484793bb5d058";
+  "ConcurrentStartExecutor" -> "Plan_Agent_906e45ab69c840bab35ec9aaa7a8aa6d";
+}
